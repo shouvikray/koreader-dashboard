@@ -1,5 +1,5 @@
 # koreader-dashboard
-A dashboard plugin for koreader, more aimed towards general statistics and notes than just books. 
+A dashboard plugin for koreader, more aimed towards general statistics and reminders than just books. 
 
 ## This project uses no AI.
 AI is not used in developing this project. This is my first time actually making something for public use, so I do apologize if my code is scuffed (ᵕ—ᴗ—).
